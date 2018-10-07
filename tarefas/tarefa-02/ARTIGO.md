@@ -13,8 +13,15 @@ Sua primeira vers˜ao lan¸cada em 2012 foi a 0.1.2, j´a em novembro de 2013 a 
 
 Em Julia é uma linguagem dinâmica, seus tipos são objetos em tempo de execução, e podem também ser declarados em tempo de compilação,resultando em um codigo mais eficiente.
 
-soma(x::Int64, y::Int64) = x+y
-.
+Exemplo :
+
+function soma(x::Int,y::Int)
+    return x+ y 
+end
+
+
 
 http://www.academia.edu/35619638/Dossi%C3%AA_da_Linguagem_Julia
 
+https://julia-cn.readthedocs.io/pt_BR/latest/manual/
+https://pt.wikipedia.org/wiki/Julia_(linguagem_de_programa%C3%A7%C3%A3o)
