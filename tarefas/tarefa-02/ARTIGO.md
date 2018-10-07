@@ -10,10 +10,10 @@
   <li>0.3 </li>
   <li>0.6.0 </li>
 </ul>
+Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.
 </p>
 
-<p>Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.A linguagem teve a contribuição de 4 estudantes  
-Stefan Karpinski,Jeff Bezanson, Alan Edelman e Viral Shah.</p>
+<p>A linguagem teve a contribuição de 4 estudantes Stefan Karpinski,Jeff Bezanson, Alan Edelman e Viral Shah.</p>
 
 
 <h2>Características e classificação</h2>
@@ -26,8 +26,10 @@ Exemplo :
     return x+ y 
 end</code></pre>
 </p>
+<p>A linguagem possui uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui sintaxe facil de escrever, semelhante ao python.
 
 http://www.academia.edu/35619638/Dossi%C3%AA_da_Linguagem_Julia
+http://www.cienciaedados.com/julia-a-princesinha-do-cientista-de-dados/
 
 https://julia-cn.readthedocs.io/pt_BR/latest/manual/
 https://pt.wikipedia.org/wiki/Julia_(linguagem_de_programa%C3%A7%C3%A3o)
