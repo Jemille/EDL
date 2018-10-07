@@ -1,25 +1,31 @@
 
-A Linguagem de programação Julia
+<h1>A Linguagem de programação Julia</h1>
 
-Introdução
+<h2>Introdução</h2>
 
-O presente artigo trata da linguagem de programação Julia.
-Uma linguagem de propósito geral com foco em computação científica.
-A linguagem começou a ser desenvolvida em 2009 e em 2012 foi divulgada 
-uma versão de código aberto.Tendo a contribuição de 4 estudantes Stefan Karpinski, Jeff Bezanson, Alan Edelman e
-Viral Shah.
-Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.
-Sua primeira vers˜ao lan¸cada em 2012 foi a 0.1.2, j´a em novembro de 2013 a vers˜ao0.3 foi lan¸cada. Atualmente se encontra na vers˜ao 0.6.0 que foi lan¸cada em novembro de2016. Tamb´em h´a uma vers˜ao beta chamada 0.5.0-dev e ´e atualizada constantemente
+<p> O presente artigo trata da linguagem de programação Julia.Uma linguagem de propósito geral com foco em computação científica e matemátiva.Ela foi construída com heranças das linguagens de programação matemática, mas também herda muito de outras linguagens dinâmicas populares, incluindo Lisp, Perl, Python, Lua, and Ruby.Julia começou a ser desenvolvida em 2009 e, atualmente, se encontra na versão 1.0.</p>
+<p>Versões anteriores:  
+<ul>
+  <li>0.1.2 </li>
+  <li>0.3 </li>
+  <li>0.6.0 </li>
+</ul>
+</p>
 
-Em Julia é uma linguagem dinâmica, seus tipos são objetos em tempo de execução, e podem também ser declarados em tempo de compilação,resultando em um codigo mais eficiente.
+<p>Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.A linguagem teve a contribuição de 4 estudantes  
+Stefan Karpinski,Jeff Bezanson, Alan Edelman e Viral Shah.</p>
 
+
+<h2>Características e classificação</h2>
+
+<p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.
+Julia é uma linguagem dinâmica, seus tipos são objetos em tempo de execução, e podem também ser declarados em tempo de compilação,resultando em um codigo mais eficiente.</p>
+<p>
 Exemplo :
-
-function soma(x::Int,y::Int)
+<pre><code>function soma(x::Int,y::Int)
     return x+ y 
-end
-
-
+end</code></pre>
+</p>
 
 http://www.academia.edu/35619638/Dossi%C3%AA_da_Linguagem_Julia
 
