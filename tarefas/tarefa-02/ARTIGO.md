@@ -46,10 +46,9 @@ end</code></pre>
 end</code></pre>
 </p>
 
-<h.5>Exemplos de código</h5>
+<h5>Exemplos de código</h5>
 
 <p>Todo operador é função , veja a seguir:
-
 <pre><code>
 >>f=+
 >>f(1,2,3)
