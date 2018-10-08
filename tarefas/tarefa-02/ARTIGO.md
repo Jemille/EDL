@@ -18,7 +18,8 @@ Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.
 
 <h2>Características e classificação</h2>
 
-<p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.
+<p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.Julia utiliza um compilador
+ Just-in-Time(JIT). Esse é um método no qual o código fonte é traduzido para código de máquina em tempo de execução na CPU.
 Julia é uma linguagem dinâmica, seus tipos são objetos em tempo de execução, e podem também ser definidos em tempo de compilação,resultando em um codigo mais eficiente.</p>
 <p>
 Exemplo :
