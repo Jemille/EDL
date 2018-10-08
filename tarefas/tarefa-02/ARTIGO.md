@@ -28,7 +28,7 @@ end</code></pre>
 </p>
 <p>Julia apresenta diversas funções matemáticas e com alta precisão dos valores numéricos,recursos para computação paralela e distribuída.Uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui ,ainda, sintaxe facil de escrever, semelhante ao python.
  
-<h4>A expressividade de Julia sobre Python</h4>
+<h4>A expressividade de Julia em relação a Python</h4>
 <p>De acordo com a definição de expressividade, podemos concluir que as operações matemáticas encontradas em Julia a torna mais expressiva em relação a linguagem Python.A seguir,encontra-se alguns exemplos.</p>
   
 <p>Codigo em Julia  
@@ -45,6 +45,16 @@ end</code></pre>
     print (res)
 end</code></pre>
 </p>
+
+<h.5>Exemplos de código</h5>
+
+<p>Todo operador é função , veja a seguir:
+
+<pre><code>
+>>f=+
+>>f(1,2,3)
+</pre><code>
+O resultado é 3 que corresponde a soma dos numeros 1,2 e 3.</p>
   
  <h4>Bibliografia</h4>
 
