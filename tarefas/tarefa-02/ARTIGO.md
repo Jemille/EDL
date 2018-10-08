@@ -26,7 +26,25 @@ Exemplo :
     return x+ y 
 end</code></pre>
 </p>
-<p>A linguagem possui uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui sintaxe facil de escrever, semelhante ao python.
+<p>Julia apresenta diversas funções matemáticas e com alta precisão dos valores numéricos,recursos para computação paralela e distribuída.Uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui ,ainda, sintaxe facil de escrever, semelhante ao python.
+ 
+<h4>A expressividade de Julia sobre Python</h4>
+<p>De acordo com a definição de expressividade, podemos concluir que as operações matemáticas encontradas em Julia a torna mais expressiva em relação a linguagem Python.A seguir,encontra-se alguns exemplos.</p>
+  
+<p>Codigo em Julia  
+<pre><code>function produtoVet(vetor,num)
+    return vetor*num
+end</code></pre>
+</p>
+
+<p>Codigo em python
+<pre><code>def prod_vet(vet,num):
+    res=[0]*len(vet)
+    for i in range(0,len(vet)):
+        res[i]=vet[i]*num
+    print (res)
+end</code></pre>
+</p>
   
  <h4>Bibliografia</h4>
 
