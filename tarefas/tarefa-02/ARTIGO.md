@@ -16,18 +16,18 @@ Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.
 <p>A linguagem teve a contribuição de Stefan Karpinski,Jeff Bezanson, Alan Edelman e Viral Shah.</p>
 
 
-<h2>Características e classificação</h2>
+<h2>**Características e classificação**</h2>
 
 <p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.Julia utiliza um compilador
  Just-in-Time(JIT).Esse é um método no qual o código fonte é traduzido para código de máquina em tempo de execução na CPU.
 Julia é uma linguagem com tipagem opcional.Seus tipos são objetos em tempo de execução, na ausência da declaração dos tipos,mas também podem ser definidos em tempo de compilação,resultando em um codigo mais eficiente.</p>
 <p>
-Exemplo :
+**Exemplo** :
 <pre><code>function soma(x::Int8,y::Int8)
     return x+ y 
 end</code></pre>
 </p>
-<p>Julia aceitas os seguintes tipos de dados:</p>
+<p>**Julia aceitas os seguintes tipos de dados:**</p>
 <ul>  
   <li>Int8 - Número inteiro 8-bit com ou sem sinal</li>
   <li>Int16 — Número inteiro 16-bit com ou sem sinal</li>
