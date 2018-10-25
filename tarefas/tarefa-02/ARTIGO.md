@@ -3,7 +3,7 @@
 
 <h2>Introdução</h2>
 
-<p> O presente artigo tem como objetivo tratar da linguagem de programação Julia.Uma linguagem de propósito geral com foco em computação científica e matemátiva.Ela foi construída com heranças das linguagens de programação matemática, mas também herda muito de outras linguagens dinâmicas populares, incluindo Lisp, Perl, Python, Lua e Ruby.Julia começou a ser desenvolvida em 2009 e, atualmente, se encontra na versão 1.0.</p>
+<p> O presente artigo tem como objetivo tratar da linguagem de programação Julia.Uma linguagem de propósito geral com foco em computação científica e matemátiva.Ela foi construída com heranças das linguagens de programação matemática, mas também herda muito de outras linguagens populares, incluindo Lisp, Perl, Python, Lua e Ruby.Julia começou a ser desenvolvida em 2009 e, atualmente, se encontra na versão 1.0.</p>
 <p>Versões anteriores:  
 <ul>
   <li>0.1.2 </li>
@@ -18,8 +18,7 @@ Também há uma versão beta chamada 0.5.0-dev e é atualizada constantemente.
 
 <h2>Características e classificação</h2>
 
-<p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.Julia utiliza um compilador
- Just-in-Time(JIT).Esse é um método no qual o código fonte é traduzido para código de máquina em tempo de execução na CPU.
+<p>Linguagem multi-paradigma, com características de programação imperativa,funcional e orientada a objetos.É uma linguagem open source, de alto nível e compilada(JIT).Esse compilador utiliza um método no qual o código fonte é traduzido para código de máquina em tempo de execução na CPU.</br>
 Julia é uma linguagem com tipagem opcional.Seus tipos são objetos em tempo de execução, na ausência da declaração dos tipos,mas também podem ser definidos em tempo de compilação,resultando em um codigo mais eficiente.</p>
 <p>
 Exemplo:
@@ -39,6 +38,10 @@ end</code></pre>
   <li>Bool — true (verdadeiro) ou false (falso), que correspondem numericamente a 1 ou 0, respectivamente.</li>
   <li>Char — um tipo numérico de 32 bits representando um caracter Unicode.</li>
  </ul>
+ <p>Julia possui tipagem forte</br>
+    4.0 (float) e 1 (inteiro) são diferentes 
+</p>
+<p>A linguagem aceita funções e comandos de controle de fluxo (if, for, while...) que são terminadas com "end";</p> 
 
 <p>Julia apresenta diversas funções matemáticas e com alta precisão dos valores numéricos,recursos para computação paralela e distribuída.Uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui ,ainda, sintaxe facil de escrever, semelhante ao python.
  
