@@ -29,7 +29,7 @@ end</code></pre>
 </p>
 <p>Julia aceitas os seguintes tipos de dados:</p>
   
-<p>..*Int8 - Número inteiro 8-bit com ou sem sinal</p>
+<p>*Int8 - Número inteiro 8-bit com ou sem sinal</p>
 <p>Int16 — Número inteiro 16-bit com ou sem sinal</p>
 <p>Int32 — Número inteiro 32-bit com ou sem sinal</p>
 <p>Int64 — Número inteiro 64-bit com ou sem sinal</p>
