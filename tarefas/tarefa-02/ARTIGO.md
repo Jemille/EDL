@@ -28,16 +28,17 @@ Exemplo :
 end</code></pre>
 </p>
 <p>Julia aceitas os seguintes tipos de dados:</p>
-  
-<p>*Int8 - Número inteiro 8-bit com ou sem sinal</p>
-<p>Int16 — Número inteiro 16-bit com ou sem sinal</p>
-<p>Int32 — Número inteiro 32-bit com ou sem sinal</p>
-<p>Int64 — Número inteiro 64-bit com ou sem sinal</p>
-<p>Int128 — Número inteiro 128-bit com ou sem sinal</p>
-<p>Float32 — Números de ponto flutuante 32-bit</p>
-<p>Float64 — Números de ponto flutuante 64-bit</p>
-<p>Bool — true (verdadeiro) ou false (falso), que correspondem numericamente a 1 ou 0, respectivamente.</p>
-<p>Char — um tipo numérico de 32 bits representando um caracter Unicode.</p>
+<ul>  
+  <li>*Int8 - Número inteiro 8-bit com ou sem sinal</li>
+  <li>Int16 — Número inteiro 16-bit com ou sem sinal</li>
+  <li>Int32 — Número inteiro 32-bit com ou sem sinal</li>
+  <li>Int64 — Número inteiro 64-bit com ou sem sinal</li>
+  <li>Int128 — Número inteiro 128-bit com ou sem sinal</li>
+  <li>Float32 — Números de ponto flutuante 32-bit</li>
+  <li>Float64 — Números de ponto flutuante 64-bit</li>
+  <li>Bool — true (verdadeiro) ou false (falso), que correspondem numericamente a 1 ou 0, respectivamente.</li>
+  <li>Char — um tipo numérico de 32 bits representando um caracter Unicode.</li>
+ </ul>
 
 <p>Julia apresenta diversas funções matemáticas e com alta precisão dos valores numéricos,recursos para computação paralela e distribuída.Uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui ,ainda, sintaxe facil de escrever, semelhante ao python.
  
