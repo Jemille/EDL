@@ -45,16 +45,17 @@ end</code></pre>
 
 <p>Julia apresenta diversas funções matemáticas e com alta precisão dos valores numéricos,recursos para computação paralela e distribuída.Uma extensa bibliotecas padrão escritas na própria linguagem.Possui um alto desempenho para a computação científica,possui ,ainda, sintaxe facil de escrever, semelhante ao python.
  
-<h4>A expressividade de Julia em relação a Python</h4>
-<p>De acordo com a definição de expressividade, podemos concluir que as operações matemáticas encontradas em Julia a torna mais expressiva em relação a linguagem Python.A seguir,encontra-se alguns exemplos.</p>
-  
+<h4>A expressividade de Julia em relação a Java</h4>
+
+<p>O despacho multiplo é uma das principais características e o diferencial da linguagem julia.As funções em Julia podem ter vários métodos definidos e o comportamento da execução depende dos argumentos que são passados. Quando uma função é chamada, Julia fará uma pesquisa na sua vtable (tabela de métodos virtual) em tempo de execução para descobrir qual método correto deve ser chamado com base nos
+tipos de todos os seus argumentos.Em contrapartida temos a linguagem java que possui despacho único.A seguir temos um código em julia ,com o uso de despacho multiplo, e outro em java estruturado de uma forma se aproximar do despacho multiplo de julia. </p>
 <p>Codigo em Julia  
 <pre><code>function produtoVet(vetor,num)
     return vetor*num
 end</code></pre>
 </p>
 
-<p>Codigo em python
+<p>Codigo em java
 <pre><code>def prod_vet(vet,num):
     res=[0]*len(vet)
     for i in range(0,len(vet)):
